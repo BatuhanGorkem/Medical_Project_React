@@ -1,0 +1,18 @@
+@import "fonts/fonts.css";
+body {
+  margin: 0;
+  font-family: "izmir", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

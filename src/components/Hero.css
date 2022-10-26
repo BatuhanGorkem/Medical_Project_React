@@ -1,0 +1,10 @@
+.bgimgh {
+  background-image: url("../img/svg.png");
+  background-size: 100% 95%;
+  background-repeat: no-repeat;
+}
+@media only screen and (max-width: 650px) {
+  .bgimgh {
+    background-size: cover;
+  }
+}
